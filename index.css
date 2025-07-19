@@ -1,0 +1,54 @@
+body {
+    background: url("/images/people.jpg");
+    background-size: cover;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-wrap: wrap;
+}
+
+.main-div{
+    background: #ffefeebb;
+    max-width: 60vw;
+    border-radius: 3rem;
+    padding: 1rem;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+
+
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: #b42924;
+}
+
+#save-btn {
+    background: #4ebb1b;
+}
+
